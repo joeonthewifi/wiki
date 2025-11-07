@@ -1,0 +1,11 @@
+{
+  "title": "Wither's Wrath",
+  "icon": "Skull",
+  "pages": [
+    "index",
+    "phases",
+    "attacks",
+    "recommended-gear",
+    "changelog"
+  ]
+}
