@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function HomePage() {
 	return (
-		<div className="flex flex-col">
+		<div className="flex items-center flex-col">
 			<section className="relative overflow-hidden">
 				<div className="container py-16 md:py-24">
 					<div className="flex flex-col items-center gap-8">
